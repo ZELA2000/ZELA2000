@@ -16,11 +16,12 @@
 ---
 
 ## 🌟 **Chi sono**
-- 🎓 **Studente**: Classe 5°X nell'A.S. 2024/25.
-- ⚙️ **Specializzazione**: Gestione e ottimizzazione di sistemi IT.
-- 🔧 **Tecnologie preferite**: **Docker**, **BalenaCloud**, **Linux**, **Wireshark**, **Nethesis**.
-- 📚 **Formazione continua**: Analisi del traffico dati e configurazione avanzata di reti.
-- 🏢 **Fondatore**: dell'organizzazione **ITI-TV**, che si occupa di progetti IT scolastici.
+- 💼 **Professione**: Tecnico IT presso **Computer Cash Srl**, Ferrara.
+- 🎓 **Formazione**: Iscritto alla laurea triennale in **Informatica** presso l'**Università di Ferrara (UniFE)**.
+- ⚙️ **Competenze principali**: Progettazione, gestione e ottimizzazione di infrastrutture di rete e sistemi Linux.
+- 🌐 **Ambiti di specializzazione**: Analisi del traffico di rete, firewalling, VPN, virtualizzazione, automazione con Docker e scripting.
+- 🔧 **Tecnologie preferite**: **Docker**, **Linux**, **Wireshark**, **BalenaCloud**.
+- 🏢 **Fondatore**: dell'organizzazione **ITI-TV**, dedicata a progetti IT in ambito scolastico.
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
@@ -50,7 +51,6 @@
   <img src="https://img.shields.io/badge/BalenaCloud-009FDB?style=for-the-badge&logo=balena&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Wireshark-1677DA?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nethesis-4285F4?style=for-the-badge&logo=nethesis&logoColor=white" />
 </p>
 
 ---
@@ -60,9 +60,9 @@
 - 🌐 **Descrizione**: Creazione di un sistema per visualizzare contenuti informativi nei monitor della scuola.
 - 🛠️ **Tecnologie**: Docker, BalenaCloud, Bootstrap.
 
-### 📡 **Ottimizzazione della Rete Scolastica con Nethesis**
+### 📡 **Ottimizzazione della Rete Scolastica**
 - 🔧 **Descrizione**: Miglioramento della gestione e delle prestazioni delle reti esistenti, con configurazione avanzata di firewall e VPN.
-- 🛠️ **Tecnologie**: Nethesis, Linux.
+- 🛠️ **Tecnologie**: Linux, strumenti di analisi e monitoraggio di rete.
 
 ---
 
