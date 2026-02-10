@@ -166,13 +166,13 @@ status: [ ACTIVE ] | uptime: 24/7 | processes: 99+
 
 <div align="center">
 
-### 📊 **Also-TDSynnex-Trend** | `[TypeScript]`
+### 📊 **Marketplace-HUB** | `[TypeScript]`
 ```
 ► IT Distribution Trend Analysis System
 ► Real-time data tracking & visualization
 ► License: AGPL-3.0
 ```
-[![View Project](https://img.shields.io/badge/→_REPOSITORY-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000/Also-TDSynnex-Trend)
+[![View Project](https://img.shields.io/badge/→_REPOSITORY-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000/Marketplace-HUB)
 
 <br/>
 
