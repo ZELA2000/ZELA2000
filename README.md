@@ -1,188 +1,353 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> Ciao! Sono **Gabriele Bovina** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Infrastrutture+IT+%F0%9F%92%BB;Automazione+e+DevOps+%F0%9F%94%A7;Fondatore+ITI-TV+%F0%9F%93%BA;Linux+%26+Docker+Enthusiast+%F0%9F%90%A7" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZELA2000&color=0e75b6&style=for-the-badge&label=VISITE+AL+PROFILO)
-[![GitHub followers](https://img.shields.io/github/followers/ZELA2000?label=Followers&style=for-the-badge&color=blue)](https://github.com/ZELA2000?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ZELA2000?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/ZELA2000?tab=repositories)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="35" /> **Chi sono**
-
-```yaml
-name: Gabriele Bovina
-located_in: Ferrara, Italia
-current_job: Tecnico IT
-company: Computer Cash Srl
-education: 
-  - Laurea Triennale in Informatica
-  - Università di Ferrara (UniFE)
-  
-interests:
-  - Infrastrutture di Rete
-  - Automazione e DevOps
-  - Virtualizzazione
-  - Analisi del Traffico di Rete
-  - Sicurezza Informatica
-  
-achievements:
-  - Fondatore dell'organizzazione ITI-TV
-  - Progetti di ottimizzazione reti scolastiche
-  - Sistemi di gestione monitor con Docker e BalenaCloud
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗     ███████╗           ║
+║    ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║     ██╔════╝           ║
+║    ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║     █████╗             ║
+║    ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     ██╔══╝             ║
+║    ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗███████╗           ║
+║     ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝           ║
+║                                                                           ║
+║                         B  O  V  I  N  A                                  ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=800&lines=root%40ferrara%3A~%23+whoami;%3E+IT+Infrastructure+Specialist;%3E+DevOps+%26+Automation+Engineer;%3E+Network+Security+Expert;%3E+Docker+%26+Linux+Enthusiast;%3E+Founder+%40+ITI-TV" alt="Terminal Typing" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:008B00&height=100&section=header" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> **Tecnologie e Strumenti**
-
-<div align="center">
-
-### 💻 Linguaggi di Programmazione
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🐧 Sistemi Operativi
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![BalenaCloud](https://img.shields.io/badge/BalenaCloud-009FDB?style=for-the-badge&logo=balena&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 🌐 Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-00979D?style=for-the-badge&logo=openvpn&logoColor=white)
-
-### 🗄️ Database & Server
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Visitor Count](https://komarev.com/ghpvc/?username=ZELA2000&color=00FF00&style=for-the-badge&label=ACCESS_LOG)
+[![GitHub followers](https://img.shields.io/github/followers/ZELA2000?label=FOLLOWERS&style=for-the-badge&color=00FF00&labelColor=000000)](https://github.com/ZELA2000?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ZELA2000?label=STARS&style=for-the-badge&color=00FF00&labelColor=000000)](https://github.com/ZELA2000?tab=repositories)
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> **Statistiche GitHub**
+<br/>
+
+## ⚡ `$ cat /proc/user/info`
+
+```yaml
+┌──[root@zela2000]─[~/user_profile]
+└─$ cat config.yml
+
+name:     Gabriele Bovina
+location: Ferrara, Italia
+role:     IT Infrastructure Technician
+company:  Computer Cash Srl
+
+
+education: 
+  - Computer Science Student (Bachelor's Degree)
+  - University of Ferrara (UniFE) - Currently Enrolled
+
+  
+focus:
+  - Network Infrastructure & Security
+  - DevOps & Automation
+  - Virtualization & Containerization
+  - Network Traffic Analysis
+  - Cybersecurity
+
+  
+achievements:
+  - Founder @ ITI-TV Organization
+  - School Network Optimization Projects
+  - Monitor Management System (Docker + BalenaCloud)
+
+
+status: [ ACTIVE ] | uptime: 24/7 | processes: 99+
+```
+
+<br/>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZELA2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZELA2000&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZELA2000&custom_title=Attività%20GitHub%20di%20Gabriele%20Bovina&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&radius=20" alt="Activity Graph" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZELA2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZELA2000&theme=tokyonight" alt="Productive Time" />
+![Hacker GIF](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
 </div>
 
-<div align="center">
-  
-![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=ZELA2000&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
+<br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> **Progetti in Evidenza**
+<br/>
 
-<div align="center">
+## 🛠️ `$ ls -la /usr/bin/tools/`
 
-<table>
-<tr>
-<td width="50%">
+```bash
+┌──[root@zela2000]─[~/tools]
+└─$ tree -L 2
 
-### 🖥️ Sistema Monitor Scolastici
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" />
+📁 SYSTEMS
+  ├─ Linux (Ubuntu, Debian, Arch)
+  ├─ Windows Server
+  └─ Virtualization Platforms
 
-**Sistema di visualizzazione contenuti**
-- 🐳 Docker & BalenaCloud
-- 🎨 Bootstrap UI/UX
-- 📱 Gestione remota
-- 🔄 Aggiornamenti automatici
+📁 DEVOPS
+  ├─ Docker & Docker Compose
+  ├─ BalenaCloud
+  ├─ Git & GitHub
+  └─ CI/CD Pipelines
 
-</td>
-<td width="50%">
+📁 NETWORKING
+  ├─ Cisco Infrastructure
+  ├─ pfSense Firewall
+  ├─ VPN (OpenVPN, WireGuard)
+  └─ Wireshark Analysis
 
-### 📡 Ottimizzazione Rete
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="60" />
+📁 DATABASES
+  ├─ MySQL / MariaDB
+  ├─ PostgreSQL
+  └─ Redis
 
-**Infrastruttura di rete avanzata**
-- 🔒 Firewall & VPN
-- 📊 Monitoraggio traffico
-- ⚡ Ottimizzazione prestazioni
-- 🛡️ Sicurezza avanzata
+📁 WEB_SERVERS
+  ├─ Nginx
+  ├─ Apache
+  └─ Reverse Proxy Config
 
-</td>
-</tr>
-</table>
+📁 MONITORING
+  ├─ Grafana
+  ├─ Prometheus
+  └─ Nagios
+```
 
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Growth" width="35" /> **Competenze**
-
-<div align="center">
-
-| Categoria | Competenze |
-|-----------|-----------|
-| **🌐 Networking** | TCP/IP, DNS, DHCP, VLAN, Routing, Switching |
-| **🔒 Security** | Firewalling, VPN (OpenVPN, WireGuard), IDS/IPS |
-| **🐧 Linux** | Ubuntu Server, Debian, Shell Scripting, System Administration |
-| **📦 Virtualizzazione** | Docker, Docker Compose, Container Orchestration |
-| **📊 Monitoring** | Wireshark, Grafana, Prometheus, Nagios |
-| **🛠️ Automazione** | Bash Scripting, Python Automation, CI/CD |
-
-</div>
+<br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Contact" width="35" /> **Contattami**
+<br/>
+
+## 📊 `$ git log --stat --graph`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gabrielebovina@outlook.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielebovina@outlook.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriele%20Bovina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-bovina-b14206285/)
-[![GitHub](https://img.shields.io/badge/GitHub-ZELA2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZELA2000)
+```diff
++ Active Contributor | System Uptime: 99.9%
+```
 
-<br>
+<br/>
 
-### 💬 Sono sempre aperto a nuove opportunità e collaborazioni!
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZELA2000&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZELA2000&theme=github_dark" alt="Productive Time" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" />
+<br/>
+
+```ascii
+┌──────────────────────────────────────────────────┐
+│  ► SYSTEM STATUS: OPERATIONAL                    │
+│  ► COMMITS: ACTIVE                               │
+│  ► DEPLOYMENT: CONTINUOUS                        │
+└──────────────────────────────────────────────────┘
+```
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
+
+## 🚀 `$ ls ~/projects/`
+
+```bash
+┌──[root@zela2000]─[~/repositories]
+└─$ cat README.md
+```
+
+<br/>
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25" /> *"La tecnologia è meglio quando unisce le persone"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25" />
+### 📊 **Also-TDSynnex-Trend** | `[TypeScript]`
+```
+► IT Distribution Trend Analysis System
+► Real-time data tracking & visualization
+► License: AGPL-3.0
+```
+[![View Project](https://img.shields.io/badge/→_REPOSITORY-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000/Also-TDSynnex-Trend)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/>
 
-**Grazie per la visita! Lascia una ⭐ se ti piacciono i miei progetti!**
+---
+
+<br/>
+
+### 🔊 **Crazy-PhoneTTS** | `[Python]`
+```
+► Text-to-Speech Synthesis Engine
+► Advanced voice conversion system
+► License: AGPL-3.0
+```
+[![View Project](https://img.shields.io/badge/→_REPOSITORY-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000/crazy-phoneTTS)
+
+<br/>
+
+---
+
+<br/>
+
+### 🎓 **UNIFE** | `[C]` ⭐ 1
+```
+► Academic Projects Repository
+► Computer Science @ University of Ferrara
+► License: MIT
+```
+[![View Project](https://img.shields.io/badge/→_REPOSITORY-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000/UNIFE)
+
+<br/>
+
+---
+
+<br/>
+
+### 🎮 **PacMan-JavaFX** | `[Java]`
+```
+► Educational Game for School Orientation
+► Modern GUI with JavaFX library
+► Target: Middle School Students
+```
+[![View Project](https://img.shields.io/badge/→_REPOSITORY-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000/PacMan2.1_IIS)
+
+<br/>
+
+---
+
+<br/>
+
+### 🖥️ **ITI-TV Monitor System** | `[Docker]`
+```
+► School Display Content Management
+► Docker & BalenaCloud deployment
+► Remote management & auto-updates
+```
+[![View Organization](https://img.shields.io/badge/→_ORGANIZATION-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ITI-TV)
+
+<br/>
+
+---
+
+<br/>
+
+### 🌐 **Network Infrastructure** | `[Enterprise]`
+```
+► Advanced firewall configuration (pfSense)
+► VPN tunneling & traffic monitoring
+► Performance optimization & security hardening
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 💻 `$ cat /etc/skills.conf`
+
+<div align="center">
+
+```ini
+[NETWORKING]
+protocols = TCP/IP, DNS, DHCP, VLAN
+routing = Static & Dynamic Routing, Switching
+devices = Cisco Infrastructure Simulation
+
+
+[SECURITY]
+firewall = pfSense, iptables
+vpn = OpenVPN, WireGuard
+ids_ips = Intrusion Detection & Prevention
+
+
+[LINUX]
+distros = Ubuntu Server, Debian, Arch
+admin = System Administration, Shell Scripting
+services = Apache, Nginx, systemd
+
+
+[VIRTUALIZATION]
+container = Docker, Docker Compose
+orchestration = Container Management
+platforms = BalenaCloud
+
+
+[MONITORING]
+tools = Wireshark, Grafana, Prometheus, Nagios
+focus = Traffic Analysis, Performance Metrics
+
+
+[AUTOMATION]
+scripting = Bash, Python
+cicd = Continuous Integration/Deployment
+devops = Infrastructure as Code
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📡 `$ netstat -connections`
+
+<div align="center">
+
+```bash
+       ┌──[root@zela2000]─[~/contact]
+└─$ cat endpoints.txt
+```
+
+<br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-gabrielebovina@outlook.it-00FF00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:gabrielebovina@outlook.it)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Gabriele_Bovina-00FF00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/gabriele-bovina-b14206285/)
+[![GitHub](https://img.shields.io/badge/GITHUB-ZELA2000-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/ZELA2000)
+
+<br/>
+
+```diff
++ STATUS : Available for collaboration
++ RESPONSE_TIME: < 24h
+```
+
+![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    "The best way to predict the future is to implement it"       ║
+║                                                                  ║
+║                  - root@zela2000:~# █                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:008B00&height=100&section=footer" width="100%"/>
+
+```bash
+► SESSION TERMINATED
+► THANKS FOR VISITING | ⭐ STAR IF USEFUL
+```
 
 </div>
